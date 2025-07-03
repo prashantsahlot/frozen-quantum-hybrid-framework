@@ -116,5 +116,4 @@ Pull requests are welcome! Please read our [contributing guidelines](CONTRIBUTIN
 <p align="center">
   ❄️✨ "Make it first. Make it open. Freeze it in history." — Frozen Bots ✨❄️
 </p>
-```
 
