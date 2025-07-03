@@ -18,6 +18,7 @@
   <img src="https://github.com/prashantsahlot/frozen-quantum-hybrid-framework/blob/main/assets/banner.png" alt="Banner" width="800"/>
 </p>
 
+---
 
 ## 🚀 What is FrozenQuantumHybridFramework?
 
@@ -31,6 +32,7 @@ Imagine a world where games, heavy simulations, and advanced applications run on
 
 ✅ Build future-ready applications and games.  
 ✅ Prepare your code for upcoming quantum coprocessors.  
+✅ Hybrid approach: CPU decides, quantum executes ("burst" concept).  
 ✅ Open-source and community-driven.  
 ✅ Non-commercial use with full credit to **Frozen Bots**.  
 ✅ Designed for visionary developers and researchers.
@@ -41,7 +43,7 @@ Imagine a world where games, heavy simulations, and advanced applications run on
 
 ```bash
 # Clone this repo
-git clone https://github.com/your-username/frozen-quantum-hybrid-framework.git
+git clone https://github.com/prashantsahlot/frozen-quantum-hybrid-framework.git
 
 # Move into the directory
 cd frozen-quantum-hybrid-framework
@@ -50,46 +52,44 @@ cd frozen-quantum-hybrid-framework
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Install dependencies (if any)
+# Install dependencies
 pip install -r requirements.txt
-````
-
----
-
-## 💬 Example Usage
-
-```python
+💬 Example Usage
+Basic Simulation
+python
+Copy
+Edit
 from fqhf import QuantumEngine
 
 qe = QuantumEngine()
 qe.prepare_environment()
 result = qe.run_future_simulation(data="my_game_data")
 print(result)
-```
+Hybrid CPU-decider + Quantum-executor Converter
+python
+Copy
+Edit
+from examples import converter
 
----
+# Just run: python examples/converter.py
+🧪 Examples
+examples/demo.py: Basic hybrid pipeline example.
 
-## 📄 License
+examples/converter.py: CPU-decider + Quantum-executor simulated converter (your futuristic vision).
 
-This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International License**.
-You **must give credit to Frozen Bots**, and you **cannot use it for commercial purposes**.
+📄 License
+This project is licensed under Creative Commons Attribution-NonCommercial 4.0 International License.
+You must give credit to Frozen Bots, and you cannot use it for commercial purposes.
 
----
-
-## 🤝 Contributing
-
+🤝 Contributing
 Want to help shape the future?
-Pull requests are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) before submitting.
+Pull requests are welcome! Please read our contributing guidelines before submitting.
 
----
+💬 Contact
+🌐 Telegram: @Frozen Bots
 
-## 💬 Contact
+📸 Instagram: @frozenbots
 
-* Telegram: [@Frozen Bots](https://t.me/xyz09723)
-* Instagram: [@frozenbots](https://instagram.com/prashant_sahlot)
-* Website: Coming soon...
-
----
+💻 Website: Coming soon...
 
 <p align="center"> <img src="https://github.com/prashantsahlot/frozen-quantum-hybrid-framework/blob/main/assets/banner.png" alt="Frozen Bots" width="500"/> </p> <p align="center"> ❄️✨ "Make it first. Make it open. Freeze it in history." — Frozen Bots ✨❄️ </p> ```
-
