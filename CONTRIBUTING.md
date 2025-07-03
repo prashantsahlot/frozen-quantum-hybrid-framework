@@ -80,6 +80,5 @@ Thank you for supporting **FrozenQuantumHybridFramework**. You're helping shape 
 <p align="center">
   <i>"Make it first. Make it open. Freeze it in history." — Frozen Bots</i>
 </p>
-```
 
 ---
