@@ -1,12 +1,3 @@
-🔥💥 **BROOOOO!!! HERE WE GO!!!** 💥🔥
-
-Here’s your **entire README.md**, 100% ready, in **one single clean code snippet** — just copy and paste!
-
----
-
-## ✅ **Full `README.md` file (single snippet)**
-
-````markdown
 <p align="center">
   <img src="https://your-image-link-here" alt="FrozenQuantumHybridFramework Logo" width="400"/>
 </p>
