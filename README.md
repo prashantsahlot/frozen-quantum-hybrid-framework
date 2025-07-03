@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-image-link-here](https://github.com/prashantsahlot/frozen-quantum-hybrid-framework/blob/main/assets/logo.png)" alt="FrozenQuantumHybridFramework Logo" width="400"/>
+  <img src="https://github.com/prashantsahlot/frozen-quantum-hybrid-framework/blob/main/assets/logo.png" alt="FrozenQuantumHybridFramework Logo" width="400"/>
 </p>
 
 <h1 align="center">❄️ FrozenQuantumHybridFramework ❄️</h1>
@@ -15,10 +15,9 @@
 ---
 
 <p align="center">
-  <img src="https://your-banner-image-link-here" alt="Banner" width="800"/>
+  <img src="https://github.com/prashantsahlot/frozen-quantum-hybrid-framework/blob/main/assets/banner.png" alt="Banner" width="800"/>
 </p>
 
----
 
 ## 🚀 What is FrozenQuantumHybridFramework?
 
