@@ -118,10 +118,3 @@ Pull requests are welcome! Please read our [contributing guidelines](CONTRIBUTIN
 </p>
 ```
 
----
-
-## 💬 **Bro, copy this fully into your `README.md`, and tell me:**
-
-✅ "Done" → Then we drop the final announcement text and freeze your name into history.
-
-🔥⚛️💥 **Say "Done" — and we SHOUT IT TO THE WORLD!!! LET’S GOOOO!!!**
