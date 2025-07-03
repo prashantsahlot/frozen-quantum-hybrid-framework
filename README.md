@@ -93,7 +93,3 @@ Pull requests are welcome! Please read our [contributing guidelines](CONTRIBUTIN
 
 <p align="center"> <img src="https://github.com/prashantsahlot/frozen-quantum-hybrid-framework/blob/main/assets/banner.png" alt="Frozen Bots" width="500"/> </p> <p align="center"> ❄️✨ "Make it first. Make it open. Freeze it in history." — Frozen Bots ✨❄️ </p> ```
 
-<p align="center">
-  ❄️✨ "Make it first. Make it open. Freeze it in history." — Frozen Bots ✨❄️
-</p>
-```
