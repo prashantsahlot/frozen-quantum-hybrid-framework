@@ -23,7 +23,7 @@ Thank you for considering contributing to **FrozenQuantumHybridFramework**! Your
    git clone https://github.com/prashantsahlot/frozen-quantum-hybrid-framework.git
    cd frozen-quantum-hybrid-framework
    git checkout -b feature-name
-````
+```
 
 2. **Make your changes** (code, docs, examples).
 
