@@ -54,42 +54,74 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
-💬 Example Usage
-Basic Simulation
-python
-Copy
-Edit
+````
+
+---
+
+## 💬 Example Usage
+
+### Basic Simulation
+
+```python
 from fqhf import QuantumEngine
 
 qe = QuantumEngine()
 qe.prepare_environment()
 result = qe.run_future_simulation(data="my_game_data")
 print(result)
-Hybrid CPU-decider + Quantum-executor Converter
-python
-Copy
-Edit
+```
+
+### Hybrid CPU-decider + Quantum-executor Converter
+
+```python
 from examples import converter
 
 # Just run: python examples/converter.py
-🧪 Examples
-examples/demo.py: Basic hybrid pipeline example.
+```
 
-examples/converter.py: CPU-decider + Quantum-executor simulated converter (your futuristic vision).
+---
 
-📄 License
-This project is licensed under Creative Commons Attribution-NonCommercial 4.0 International License.
-You must give credit to Frozen Bots, and you cannot use it for commercial purposes.
+## 🧪 Examples
 
-🤝 Contributing
+* `examples/demo.py`: Basic hybrid pipeline example.
+* `examples/converter.py`: CPU-decider + Quantum-executor simulated converter (your futuristic vision).
+
+---
+
+## 📄 License
+
+This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International License**.
+You **must give credit to Frozen Bots**, and you **cannot use it for commercial purposes**.
+
+---
+
+## 🤝 Contributing
+
 Want to help shape the future?
-Pull requests are welcome! Please read our contributing guidelines before submitting.
+Pull requests are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) before submitting.
 
-💬 Contact
-🌐 Telegram: @Frozen Bots
+---
 
-📸 Instagram: @frozenbots
+## 💬 Contact
 
-💻 Website: Coming soon...
+* 🌐 Telegram: [@Frozen Bots](https://t.me/xyz09723)
+* 📸 Instagram: [@frozenbots](https://instagram.com/prashant_sahlot)
+* 💻 Website: Coming soon...
 
-<p align="center"> <img src="https://github.com/prashantsahlot/frozen-quantum-hybrid-framework/blob/main/assets/banner.png" alt="Frozen Bots" width="500"/> </p> <p align="center"> ❄️✨ "Make it first. Make it open. Freeze it in history." — Frozen Bots ✨❄️ </p> ```
+---
+
+<p align="center">
+  <img src="https://github.com/prashantsahlot/frozen-quantum-hybrid-framework/blob/main/assets/banner.png" alt="Frozen Bots" width="500"/>
+</p>
+<p align="center">
+  ❄️✨ "Make it first. Make it open. Freeze it in history." — Frozen Bots ✨❄️
+</p>
+```
+
+---
+
+## 💬 **Bro, copy this fully into your `README.md`, and tell me:**
+
+✅ "Done" → Then we drop the final announcement text and freeze your name into history.
+
+🔥⚛️💥 **Say "Done" — and we SHOUT IT TO THE WORLD!!! LET’S GOOOO!!!**
